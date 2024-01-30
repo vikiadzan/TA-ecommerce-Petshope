@@ -1,3 +1,23 @@
+# Pet Shop E-Commerce Website (Laravel)
+![mobile (4)](https://github.com/vikiadzan/TA-ecommerce-Petshope/assets/82427912/6524c905-18ec-4540-a2a7-4c03c823b89f)
+
+Welcome to our Pet Shop E-Commerce website! This Laravel-based platform is tailored to provide a seamless online shopping experience for pet enthusiasts, with a specific focus on cat-related products and services.
+
+
+
+Features:
+- Product Catalog: Explore a diverse catalog of pet products, with a special emphasis on cat-related items including food, toys, accessories, and more.
+- User Accounts: Create an account to manage your orders, save favorite products, and track your purchase history.
+- Search and Filters: Easily find specific cat products using the search functionality and apply filters for a tailored shopping experience.
+- Shopping Cart: Add cat products to your cart, review your selections, and proceed to a secure checkout process.
+- Responsive Design: Enjoy a consistent and user-friendly experience across various devices.
+    
+Technologies Used :
+- Laravel: A PHP web application framework for building robust and scalable applications.
+- MySQL: A relational database management system for storing product information and user data.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
